@@ -1,0 +1,22 @@
+id	name	kind
+Anatomy::UBERON:0000002	uterine cervix	Anatomy
+Anatomy::UBERON:0000004	nose	Anatomy
+Anatomy::UBERON:0000006	islet of Langerhans	Anatomy
+Anatomy::UBERON:0000007	pituitary gland	Anatomy
+Anatomy::UBERON:0000010	peripheral nervous system	Anatomy
+Anatomy::UBERON:0000011	parasympathetic nervous system	Anatomy
+Anatomy::UBERON:0000013	sympathetic nervous system	Anatomy
+Anatomy::UBERON:0000020	sense organ	Anatomy
+Anatomy::UBERON:0000026	appendage	Anatomy
+Anatomy::UBERON:0000029	lymph node	Anatomy
+Anatomy::UBERON:0000033	head	Anatomy
+Anatomy::UBERON:0000038	follicular fluid	Anatomy
+Anatomy::UBERON:0000042	serous membrane	Anatomy
+Anatomy::UBERON:0000043	tendon	Anatomy
+Anatomy::UBERON:0000045	ganglion	Anatomy
+Anatomy::UBERON:0000053	macula lutea	Anatomy
+Anatomy::UBERON:0000054	macula	Anatomy
+Anatomy::UBERON:0000056	ureter	Anatomy
+Anatomy::UBERON:0000057	urethra	Anatomy
+Anatomy::UBERON:0000165	mouth	Anatomy
+Anatomy::UBERON:0000178	blood	Anatomy
